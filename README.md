@@ -166,8 +166,11 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📄 License
 
+
+
 This project is private and not published to pub.dev. All rights reserved © Pranav Gor.
 
 ---
 
 > *Smarter HR. No hardware. No hassle.*
+<img width="1103" height="679" alt="image" src="https://github.com/user-attachments/assets/ed0af7d4-cd57-4c7c-a55b-11269d792701" />
